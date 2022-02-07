@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S9yd3R&theme=midnight-purple)
 <h3 align="left">Connect with me:</h3>
-Telegram : @Spy_d3R
+<a href="https://t.me/S9y_d3R"><img alt="Telegram" 
+src="https://img.shields.io/badge/ꜱᴘʏᠰᴅᴣᴙ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <p align="left">
 </p>
 
