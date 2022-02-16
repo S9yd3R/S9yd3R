@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm ꜱᴘʏᠰᴅᴣᴙ</h1>
+<h1 align="center">ʜɪ, ɪ'ᴍ ꜱᴘʏᠰᴅᴣᴙ</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S9yd3R&theme=midnight-purple)
 <h3 align="left">Connect with me:</h3>
@@ -25,5 +25,3 @@ src="https://img.shields.io/badge/ꜱᴘʏᠰᴅᴣᴙ-2CA5E0?style=for-the-badg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s9yd3r&show_icons=true&locale=en&layout=compact" alt="s9yd3r" /></p>
